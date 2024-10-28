@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PUSHKAR2521
-- 👀 I’m interested in Python & Web Designing
+- 👋 Hi, I’m PUSHKAR
+- 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Web Designing 
 - 📫 How to reach me 
